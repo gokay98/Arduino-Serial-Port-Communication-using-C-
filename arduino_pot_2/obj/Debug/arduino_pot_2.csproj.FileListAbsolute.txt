@@ -1,0 +1,7 @@
+C:\Users\Testmerkezi\source\repos\arduino_pot_2\arduino_pot_2\bin\Debug\arduino_pot_2.exe.config
+C:\Users\Testmerkezi\source\repos\arduino_pot_2\arduino_pot_2\bin\Debug\arduino_pot_2.exe
+C:\Users\Testmerkezi\source\repos\arduino_pot_2\arduino_pot_2\bin\Debug\arduino_pot_2.pdb
+C:\Users\Testmerkezi\source\repos\arduino_pot_2\arduino_pot_2\obj\Debug\arduino_pot_2.csproj.AssemblyReference.cache
+C:\Users\Testmerkezi\source\repos\arduino_pot_2\arduino_pot_2\obj\Debug\arduino_pot_2.csproj.CoreCompileInputs.cache
+C:\Users\Testmerkezi\source\repos\arduino_pot_2\arduino_pot_2\obj\Debug\arduino_pot_2.exe
+C:\Users\Testmerkezi\source\repos\arduino_pot_2\arduino_pot_2\obj\Debug\arduino_pot_2.pdb
